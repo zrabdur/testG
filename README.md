@@ -1,2 +1,2 @@
 # testG
-Showing how pathetic i am in git
+Showing how great i am 
